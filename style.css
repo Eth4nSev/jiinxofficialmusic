@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    color: white;
+    font-family: Anta, Arial, sans-serif;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #1c1c1c;
+    padding: 10px;
+    text-align: center;
+}
+nav p {
+    display: inline;
+    margin: 0 75px;
+    font-size: 20px;
+}
